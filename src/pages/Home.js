@@ -72,7 +72,7 @@ function Home() {
 
       <section className="block">
         <h2 className="block-title">
-          <span className="block-index">§01</span> Award
+          Award
         </h2>
         <div className="award-card">
           <span className="award-medal" aria-hidden="true">
@@ -87,7 +87,7 @@ function Home() {
 
       <section className="block">
         <h2 className="block-title">
-          <span className="block-index">§02</span> Education
+          Education
         </h2>
         <ol className="timeline">
           {education.map((e) => (
@@ -107,7 +107,7 @@ function Home() {
 
       <section className="block">
         <h2 className="block-title">
-          <span className="block-index">§03</span> Coursework
+          Coursework
         </h2>
         <p className="coursework-line">
           Object-Oriented Programming · Data Structures &amp; Algorithms · Discrete
@@ -117,7 +117,7 @@ function Home() {
 
       <section className="block">
         <h2 className="block-title">
-          <span className="block-index">§04</span> Skills
+          Skills
         </h2>
         <div className="skills-grid">
           {skillGroups.map((g) => (
@@ -137,7 +137,7 @@ function Home() {
 
       <section className="block">
         <h2 className="block-title">
-          <span className="block-index">§05</span> Off-screen
+          Off-screen
         </h2>
         <p className="coursework-line">Reading Books · Coding · Cricket · Badminton</p>
       </section>
