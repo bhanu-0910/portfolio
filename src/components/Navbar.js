@@ -5,7 +5,7 @@ function Navbar() {
     <header className="nav">
       <div className="nav-inner">
         <NavLink to="/" className="brand">
-          <span className="brand-mark">VB</span>
+          <span className="brand-mark">Vadla Bhanu Prakash</span>
         </NavLink>
         <nav className="nav-links">
           <NavLink to="/" className="nav-link" end>
