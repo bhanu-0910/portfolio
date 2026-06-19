@@ -6,7 +6,6 @@ function Navbar() {
       <div className="nav-inner">
         <NavLink to="/" className="brand">
           <span className="brand-mark">VB</span>
-          <span className="brand-cursor" aria-hidden="true" />
         </NavLink>
         <nav className="nav-links">
           <NavLink to="/" className="nav-link" end>

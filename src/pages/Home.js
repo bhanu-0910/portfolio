@@ -47,7 +47,7 @@ function Home() {
         <h1 className="hero-name">Vadla Bhanu Prakash</h1>
         <p className="hero-role">
           building structured, interactive web applications
-          <span className="cursor-blink" aria-hidden="true" />
+          
         </p>
         <p className="hero-summary">
           I build responsive interfaces and the logic underneath them — from a Tic
